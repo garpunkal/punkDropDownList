@@ -4,6 +4,11 @@ An app_plugin for Umbraco that provides an Umbraco Drop Down List with Text and 
 
 There is an included PropertyValueConverter to provide you with the value of the selected item in the CMS. 
 
+### Credits
+
+I used uDynamic's dropdownlist property editor to form the basis of this propertyeditor.
+https://github.com/Alain-es/uDynamic/blob/843015f6b872b8099152bebd5b20a3e5b9cd3b41/uDynamic/App_Plugins/PropertyEditors/DropdownList/dropdownlistcontroller.js
+
 ### Compatibility
 
 - Umbraco 8+
