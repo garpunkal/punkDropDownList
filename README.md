@@ -7,6 +7,7 @@ There is an included PropertyValueConverter to provide you with the value of the
 ### Credits
 
 I used uDynamic's dropdownlist property editor to form the basis of this propertyeditor.
+
 https://github.com/Alain-es/uDynamic/tree/master/uDynamic/App_Plugins/PropertyEditors/DropdownList
 
 ### Compatibility
