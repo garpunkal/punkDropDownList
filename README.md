@@ -24,7 +24,7 @@ https://github.com/Alain-es/uDynamic/tree/master/uDynamic/App_Plugins/PropertyEd
 ## Screenshots
   
 ### Property
-![Screenshot](https://github.com/garpunkal/punkDropDownList/raw/main/propertyeditor.jpg)
+![Screenshot](https://raw.github.com/garpunkal/punkDropDownList/main/propertyeditor.jpg)
 
 ### DataType
-![DataType setup](https://github.com/garpunkal/punkDropDownList/raw/main/propertyeditor-prevalues.jpg)
+![DataType setup](https://raw.github.com/garpunkal/punkDropDownList/main/propertyeditor-prevalues.jpg)
