@@ -11,7 +11,7 @@
         <Message Text="Copying PunkDropDownList files: $(PunkDropDownListContentFilesPath) - #@(PunkDropDownListContentFiles->Count()) files"  Importance="high" />
         <Copy
             SourceFiles="@(PunkDropDownListContentFiles)"
-            DestinationFiles="@(PunkDropDownListContentFiles->'$(MSBuildProjectDirectory)\App_Plugins\PunkDropDownList\%(RecursiveDir)%(Filename)%(Extension)')"
+            DestinationFiles="@(PunkDropDownListContentFiles->'$(MSBuildProjectDirectory)\App_Plugins\punkDropDownList\%(RecursiveDir)%(Filename)%(Extension)')"
             SkipUnchangedFiles="true" />
 
     </Target>
