@@ -25,6 +25,11 @@
 			<Pack>True</Pack>
 			<PackagePath>buildTransitive</PackagePath>
 		</None>
+		<Compile Remove="App_Plugins\punkThumbnailListView\**" />
+		<EmbeddedResource Remove="App_Plugins\punkThumbnailListView\**" />
+		<None Remove="App_Plugins\punkThumbnailListView\**" />
+		<Content Include="Models\PunkDropDownListModel.cs" />
+		<Content Include="ValueConverters\PunkDropDownListValueConverter.cs" />
 		<None Include="..\README.md" Pack="true" PackagePath="\" />
 	</ItemGroup>
 	<ItemGroup>
@@ -36,7 +41,6 @@
 		<PackageReference Include="Umbraco.Cms.Web.Website" Version="9.3.1" />
 	</ItemGroup>
 	<ItemGroup>
-		<Folder Include="App_Plugins\punkThumbnailListView\" />
 		<Folder Include="build\" />
 	</ItemGroup>
 </Project>

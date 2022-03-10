@@ -2,8 +2,7 @@
 using Umbraco.Cms.Core.Models.PublishedContent;
 using Umbraco.Cms.Core.PropertyEditors;
 
-
-namespace punk.DropDownList.ValueConverters
+namespace punkDropDownList.ValueConverters
 {
     public class PunkDropDownListPropertyValueConverter : PropertyValueConverterBase
     {

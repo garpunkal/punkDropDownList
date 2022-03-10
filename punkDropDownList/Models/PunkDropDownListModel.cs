@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace punk.DropDownList.Models
+namespace punkDropDownList.Models
 {
     public class PunkDropDownListModel
     {
