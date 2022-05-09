@@ -17,7 +17,7 @@
                     }
                 }
                 else if (!angular.isArray($scope.model.value)) {
-                    if ($scope.model.config.multiple == 1) {
+                    if ($scope.model.config.multiple === 1) {
                         var value = $scope.model.value;
                         $scope.model.value = [];
                         $scope.model.value.push(value);
