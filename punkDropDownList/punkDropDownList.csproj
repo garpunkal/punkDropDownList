@@ -6,7 +6,7 @@
 		<PackageId>punkDropDownList</PackageId>
 		<Title>punkDropDownList</Title>
 		<Description>A plugin for Umbraco that provides an Umbraco Drop Down List with Text and Key.</Description>
-		<PackageTags>umbraco plugin package</PackageTags>
+		<PackageTags>umbraco-marketplace</PackageTags>
 		<RootNamespace>punkDropDownList</RootNamespace>
 		<Authors>Gareth Wright</Authors>
 		<PackageProjectUrl>https://github.com/garpunkal/punkDropDownList</PackageProjectUrl>
