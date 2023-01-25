@@ -14,7 +14,7 @@ https://www.nuget.org/packages/punkDropDownList/
 
 ## Compatibility
 
-- Umbraco 9+
+- Umbraco 10+
 
 ## Credits
 I used uDynamic's dropdownlist property editor to form the basis of this propertyeditor.
