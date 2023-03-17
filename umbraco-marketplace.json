@@ -1,5 +1,26 @@
 {
+  "Title": "punkDropDownList",
+  "Description": "A package for Umbraco that provides an Umbraco Drop Down List with Text and Value.",
   "Category": "Editor Tools",
+  "Tags": [ "Block List" ],
   "LicenseTypes": [ "Free" ],
-  "PackageType": "Package"
+  "PackageType": "Package", 
+  "AuthorDetails": {
+    "Name": "Gareth Wright",
+    "Url": "https://garpunkal.dev",
+    "ImageUrl": "https://github.com/garpunkal.png",
+    "SyncContributorsFromRepository": true
+  },
+  "DocumentationUrl": "https://github.com/garpunkal/punkDropDownList",
+  "IssueTrackerUrl": "https://github.com/garpunkal/punkDropDownList/issues",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://raw.github.com/garpunkal/punkDropDownList/main/propertyeditor.jpg",
+      "Caption": "Property Editor"
+    },
+    {
+      "ImageUrl": "https://raw.github.com/garpunkal/punkDropDownList/main/propertyeditor-prevalues.jpg",
+      "Caption": "DataType setup"
+    }  
+  ]
 }
